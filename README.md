@@ -46,97 +46,97 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Bin Sort</td>
       <td><code>ar-binsrt</code></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Binary search algorithm -->
     <tr>
       <td>Binary Search</td>
       <td><code>ar-bsrh</code></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Breadth first search algorithm -->
     <tr>
       <td>Breadth First Search</td>
       <td><code>gr-bfsrh</code></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Bubble sort algorithm -->
     <tr>
       <td>Bubble Sort</td>
       <td><code>ar-bsrt</code></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Coin change problem algorithm -->
     <tr>
       <td>Coin Change Problem</td>
       <td><code>ar-cochprb</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
     <!-- Depth first search algorithm -->
     <tr>
       <td>Depth First Search</td>
       <td><code>gr-dfsrh</code></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center">&#10004</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Dijkstra algorithm -->
     <tr>
       <td>Dijkstra Algorithm</td>
       <td><code>gr-dij</code></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
@@ -144,26 +144,26 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Exponentiation by Squaring</td>
       <td><code>ar-expsq</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center">&#10004</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Heap sort algorithm -->
     <tr>
       <td>Heap Sort</td>
       <td><code>ar-hsrt</code></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -173,24 +173,24 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Insertion Sort</td>
       <td><code>ar-isrt</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- KMP algorithm -->
     <tr>
       <td>Knuth–Morris–Pratt</td>
       <td><code>ar-kmp</code></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -202,7 +202,7 @@ The community maintained a list of **Data Structures and Algorithms with their I
       <td>K-NN</td>
       <td><code>ar-knn</code></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -243,15 +243,15 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Linear Search</td>
       <td><code>ar-lsrh</code></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center"></td>
-      <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Longest common subsequence algorithm -->
     <tr>
@@ -260,7 +260,7 @@ The community maintained a list of **Data Structures and Algorithms with their I
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -274,7 +274,7 @@ The community maintained a list of **Data Structures and Algorithms with their I
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -299,15 +299,15 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Merge Sort</td>
       <td><code>ar-msrt</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Modular exponential algorithm -->
     <tr>
@@ -320,17 +320,17 @@ The community maintained a list of **Data Structures and Algorithms with their I
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
     </tr>
     <!-- Naive search algorithm -->
     <tr>
       <td>Naive Search</td>
       <td><code>ar-nsrh</code></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -341,12 +341,12 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Prime Factor</td>
       <td><code>ar-prfac</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -383,10 +383,10 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Quick Sort</td>
       <td><code>ar-qsrt</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -398,7 +398,7 @@ The community maintained a list of **Data Structures and Algorithms with their I
       <td>Radix Sort</td>
       <td><code>ar-radsrt</code></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -425,12 +425,12 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Selection Sort</td>
       <td><code>ar-ssrt</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -439,12 +439,12 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Shell Sort</td>
       <td><code>ar-shsrt</code></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -467,14 +467,14 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Sleep Sort</td>
       <td><code>ar-slpsrt</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
     </tr>
   </tbody>
@@ -523,12 +523,12 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Stack</td>
       <td><code>ds-stk</code></td>
-      <td class="text-center">&#10004;</td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -537,12 +537,12 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Queue</td>
       <td><code>ds-que</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -551,10 +551,10 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Circular Queue</td>
       <td><code>ds-cque</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -568,7 +568,7 @@ The community maintained a list of **Data Structures and Algorithms with their I
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -582,9 +582,9 @@ The community maintained a list of **Data Structures and Algorithms with their I
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -598,7 +598,7 @@ The community maintained a list of **Data Structures and Algorithms with their I
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
@@ -621,12 +621,12 @@ The community maintained a list of **Data Structures and Algorithms with their I
     <tr>
       <td>Binary Search Tree</td>
       <td><code>ds-btree</code></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
       <td class="text-center"></td>
-      <td class="text-center">&#10004;</td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
+      <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
       <td class="text-center"></td>
